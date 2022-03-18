@@ -1,7 +1,7 @@
 {
-  "name": "𝙁𝙇𝘼𝙎𝙃_𝐒𝐏𝐀𝐌",
-  "description": "𝑷𝑶𝑾𝑬𝑹𝑭𝑼𝑳𝑳 𝑨𝑵𝑫 𝑺𝑻𝑨𝑩𝑳𝑬 𝑩𝑶𝑻 𝑭𝑶𝑹 𝑺𝑷𝑨𝑴𝑴𝑰𝑵𝑮 𝑴𝑨𝑫𝑬 𝑼𝑷 𝑩𝒀 𝙁𝙇𝘼𝙎𝙃",
-  "logo": "https://te.legra.ph/file/f01cc0b49b9bc1f9c0935.jpg",
+  "name": "𝑯𝑬𝑹𝑶𝑿_𝐒𝐏𝐀𝐌",
+  "description": "𝑷𝑶𝑾𝑬𝑹𝑭𝑼𝑳𝑳 𝑨𝑵𝑫 𝑺𝑻𝑨𝑩𝑳𝑬 𝑩𝑶𝑻 𝑭𝑶𝑹 𝑺𝑷𝑨𝑴𝑴𝑰𝑵𝑮 𝑴𝑨𝑫𝑬 𝑼𝑷 𝑩𝒀 @HEROX",
+  "logo": "https://te.legra.ph/file/da853f68f9f96368582fc.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -170,7 +170,7 @@
       },
       "SUDO": {
         "description": "𝚂𝚄𝙳𝙾 𝚄𝚂𝙴𝚁𝚂 𝙸𝙳",
-        "value": "1281418521",
+        "value": "1653260872",
         "required": true
       }
   },
